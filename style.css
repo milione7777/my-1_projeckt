@@ -300,7 +300,6 @@
 
 .photoss {
   position: absolute;
-  background: url(/ggll.jpg) center center/cover no-repeat;
   width: 419px;
   height: 280px;
   left: 633px;
@@ -366,4 +365,12 @@
   text-decoration: underline;
   text-decoration-color: #03a9f4;
   border-color: #03a9f4;
+}
+
+.header {
+  height: 700px;
+  background: url(/img/ggll.jpg) center center/cover no-repeat;
+  padding-left: 40%;
+  padding-top: 100px;
+  border-radius: 10px;
 }
