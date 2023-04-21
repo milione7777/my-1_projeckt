@@ -348,23 +348,21 @@
   color: #626262;
 }
 
-
 .load {
-border: 1px solid #626262;
-position: absolute;
-width: 165px;
-height: 60px;
-left: 506px;
-top: 2110px;
-background-image: none; 
-background: transparent;
-float: left;
-background-color: transparent;
+  border: 1px solid #626262;
+  position: absolute;
+  width: 165px;
+  height: 60px;
+  left: 506px;
+  top: 2110px;
+  background-image: none;
+  background: transparent;
+  float: left;
+  background-color: transparent;
 }
 
 .load:hover {
-    text-decoration: underline;
-    text-decoration-color: #03a9f4;
-    border-color: #03a9f4;
+  text-decoration: underline;
+  text-decoration-color: #03a9f4;
+  border-color: #03a9f4;
 }
-
