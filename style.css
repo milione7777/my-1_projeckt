@@ -300,6 +300,7 @@
 
 .photoss {
   position: absolute;
+  background: url(/ggll.jpg) center center/cover no-repeat;
   width: 419px;
   height: 280px;
   left: 633px;
